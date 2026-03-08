@@ -1,10 +1,11 @@
-# Scoop Bucket Template
+# Shihao's Scoop Bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+<!-- [![Tests](https://github.com/ShihaoShenDev/Shihao-ScoopBucket/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/ShihaoShenDev/Shihao-ScoopBucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
 
-Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
+A bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
+<!--
 ## How do I use this template?
 
 1. Generate your own copy of this repository with the "Use this template"
@@ -24,6 +25,7 @@ Template bucket for [Scoop](https://scoop.sh), the Windows command-line installe
 7. Commit and push changes.
 8. If you'd like your bucket to be indexed on `https://scoop.sh`, add the
    topic `scoop-bucket` to your repository.
+-->
 
 ## How do I install these manifests?
 
@@ -31,8 +33,14 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add shihao https://github.com/ShihaoShenDev/Shihao-ScoopBucket
-scoop install shihao/<appname>
 ```
+
+> [!TIP]
+> The recommended bucket name is `shihao` (just like the script above).
+> If you like, you can use other bucket names.
+
+## Included Packages
+TODO...
 
 ## How do I contribute new manifests?
 
