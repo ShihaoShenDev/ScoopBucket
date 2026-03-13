@@ -32,7 +32,7 @@ A bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 <!--After manifests have been committed and pushed,--> Run the following:
 
 ```pwsh
-scoop bucket add shihao https://github.com/ShihaoShenDev/Shihao-ScoopBucket
+scoop bucket add shihao https://github.com/ShihaoShenDev/ScoopBucket
 ```
 
 > [!TIP]
