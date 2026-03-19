@@ -1,5 +1,5 @@
 {
-    "version": "1.9577.27",
+    "version": "1.9577.42",
     "description": "The new purpose-built IDE to harness magic",
     "homepage": "https://windsurf.com/",
     "license": {
@@ -9,8 +9,8 @@
     "innosetup": true,
     "architecture": {
         "64bit": {
-            "url": "https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/d8f5ffde018f40c5787712b4ce2bcadcfffcf7a2/WindsurfUserSetup-x64-1.9577.27.exe",
-            "hash": "f7fff239ab50a1be8a27476cdc7d611501ae08195d249d43792f8822643ea35a"
+            "url": "https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/7e8af359f28ba41297041a60f16d418da912df8c/WindsurfUserSetup-x64-1.9577.42.exe",
+            "hash": "6ab2f0ef9151046d316b3aef98ef9e5034cfaed0ba283f3331768cf878bb16d2"
         }
     },
     "extract_dir": "{code_GetDestDir}",
