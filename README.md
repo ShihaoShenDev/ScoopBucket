@@ -32,6 +32,16 @@ A bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 <!--After manifests have been committed and pushed,--> Run the following:
 
 ```pwsh
+scoop bucket add extras
+scoop bucket add games
+scoop bucket add nerd-fonts
+scoop bucket add nirsoft
+scoop bucket add sysinternals
+scoop bucket add java
+scoop bucket add nonportable
+scoop bucket add php
+scoop bucket add versions
+# The official bucket above are recommended to add (especially the "extras" bucket) .
 scoop bucket add shihao https://github.com/ShihaoShenDev/ScoopBucket
 ```
 
