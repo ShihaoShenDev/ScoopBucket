@@ -19,7 +19,7 @@ scoop bucket add nonportable
 scoop bucket add php
 scoop bucket add versions
 # The official bucket above are recommended to add (especially the "extras" bucket) .
-scoop bucket add shihao https://github.com/ShihaoShenDev/ScoopBucket
+scoop bucket add shihao https://github.com/ShihaoShen-Bot/ScoopBucket
 ```
 
 > [!TIP]
